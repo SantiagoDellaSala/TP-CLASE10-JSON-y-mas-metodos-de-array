@@ -1,0 +1,112 @@
+[
+    {
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio": 2021,
+        "color": "Celeste",
+        "peso_kg": 13,
+        "tipo": "Montañera",
+        "precio": 1500,
+        "vendida": false
+    },
+    {
+        "marca": "Shifter",
+        "modelo": "FM18F29AM210",
+        "rodado": 29,
+        "anio": 2020,
+        "color": "Negro",
+        "peso_kg": 15,
+        "tipo": "Montañera",
+        "precio": 1800,
+        "vendida": false
+    },
+    {
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 26,
+        "anio": 2019,
+        "color": "Gris",
+        "peso_kg": 16,
+        "tipo": "Paseo",
+        "precio": 1200,
+        "vendida": true
+    },
+    {
+        "marca": "Battle",
+        "modelo": "Sunshine",
+        "rodado": 28,
+        "anio": 2022,
+        "color": "Amarillo",
+        "peso_kg": 17,
+        "tipo": "Retro",
+        "precio": 2000,
+        "vendida": false
+    },
+    {
+        "marca": "TopMega",
+        "modelo": "TM21R",
+        "rodado": 29,
+        "anio": 2020,
+        "color": "Rojo",
+        "peso_kg": 16,
+        "tipo": "Montañera",
+        "precio": 1600,
+        "vendida": false
+    },
+    {
+        "marca": "SLP",
+        "modelo": "SLP2023",
+        "rodado": 26,
+        "anio": 2023,
+        "color": "Negro",
+        "peso_kg": 15,
+        "tipo": "Montañera",
+        "precio": 1700,
+        "vendida": false
+    },
+    {
+        "marca": "Halley",
+        "modelo": "HalleyX",
+        "rodado": 28,
+        "anio": 2021,
+        "color": "Verde",
+        "peso_kg": 16,
+        "tipo": "Paseo",
+        "precio": 1900,
+        "vendida": false
+    },
+    {
+        "marca": "Fixie",
+        "modelo": "Fix2022",
+        "rodado": 28,
+        "anio": 2022,
+        "color": "Azul",
+        "peso_kg": 15,
+        "tipo": "Retro",
+        "precio": 1800,
+        "vendida": false
+    },
+    {
+        "marca": "Olmo",
+        "modelo": "Ruta",
+        "rodado": 28,
+        "anio": 2020,
+        "color": "Blanco",
+        "peso_kg": 17,
+        "tipo": "Triatlón",
+        "precio": 2200,
+        "vendida": false
+    },
+    {
+        "marca": "Olmo",
+        "modelo": "RutaPro",
+        "rodado": 26,
+        "anio": 2021,
+        "color": "Naranja",
+        "peso_kg": 16,
+        "tipo": "Triatlón",
+        "precio": 2300,
+        "vendida": false
+    }
+]
